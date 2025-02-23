@@ -33,17 +33,12 @@
           <li>Systems Analysis and Development - Universidade Descomplica</li>
         </ul>
       </div>
-      <div class="social-media">
-        <a href="https://github.com/UmMochileiro">GitHub</a>
+      <div class="social-media" style="text-align: center;">
+        <a href="https://github.com/UmMochileiro" style="margin-right: 10px;">GitHub</a>
         <a href="matheus2cardoso@icloud.com">Email</a>
       </div>
-      <a class="contact-button" href="mailto:fernanda@example.com">CONTACT ME</a>
-    </div>
-  </div>
-</body>
-</html>
-=======
->>>>>>> 82b952d9d77f624da52c04b39eedd0e86856c47a
+      <a class="contact-button" href="mailto:fernanda@example.com" style="display: block; text-align: center; margin-top: 20px;">CONTACT ME</a>
+
 <!--
 **UmMochileiro/UmMochileiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
