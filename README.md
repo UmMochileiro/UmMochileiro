@@ -8,10 +8,7 @@
 <body>
     <div class="container">
         <div class="profile-card">
-            <div class="profile-image" style="text-align: center;">
-              <img src='https://i.imgur.com/NqQiNQf.jpg' alt="Foto do Matheus" style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto; width: 150px; height: 150px; object-fit: cover; clip-path: circle(50%);">
-            </div>
-            <h5 style="text-align: center;">Hi There, I'm Matheus! 👋</h5>
+                        <h5 style="text-align: center;">Hi There, I'm Matheus! 👋</h5>
             <h1 style="text-align: center;">Software Developer</h1>
             <p style="text-align: center;">I am a technology enthusiast eager to start my career in web development. I am learning Ruby on Rails, HTML, CSS, and JavaScript to create dynamic and responsive web applications. I am committed to continuous learning and delivering high-quality code, aiming to enhance user experience and functionality.</p>
             <div class="skills" style="text-align: center;">
