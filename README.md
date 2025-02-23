@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -117,6 +118,8 @@
 </body>
 </html>
 
+=======
+>>>>>>> 82b952d9d77f624da52c04b39eedd0e86856c47a
 <!--
 **UmMochileiro/UmMochileiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
