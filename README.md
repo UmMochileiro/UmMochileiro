@@ -82,7 +82,7 @@
 <body>
   <div class="container">
     <div class="profile-card">
-      <img src="foto.jpg" alt="Foto de Fernanda">
+      <img src="me.jpg" alt="Foto do Matheus">
       <h1>Hi There, I'm Matheus! 👋</h1>
       <p>Software Developer</p>
       <p>I am a technology enthusiast eager to start my career in web development. I am learning Ruby on Rails, HTML, CSS, and JavaScript to create dynamic and responsive web applications. I am committed to continuous learning and delivering high-quality code, aiming to enhance user experience and functionality.</p>
@@ -108,9 +108,9 @@
         </ul>
       </div>
       <div class="social-media">
-        <a href="https://github.com">GitHub</a>
+        <a href="https://github.com/UmMochileiro">GitHub</a>
         <a href="https://linkedin.com">LinkedIn</a>
-        <a href="mailto:fernanda@example.com">Email</a>
+        <a href="matheus2cardoso@icloud.com">Email</a>
       </div>
       <a class="contact-button" href="mailto:fernanda@example.com">CONTACT ME</a>
     </div>
