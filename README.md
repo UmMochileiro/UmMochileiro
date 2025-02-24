@@ -9,7 +9,7 @@
     <div class="container">
         <div class="profile-card">
                         <h5 style="text-align: center;">Hi There, I'm Matheus! 👋</h5>
-            <h1 style="text-align: center;">Software Developer</h1>
+            <h1 style="text-align: center;">Developer</h1>
             <p style="text-align: center;">I am a technology enthusiast eager to start my career in web development. I am learning Ruby on Rails, HTML, CSS, and JavaScript to create dynamic and responsive web applications. I am committed to continuous learning and delivering high-quality code, aiming to enhance user experience and functionality.</p>
             <div class="skills" style="text-align: center;">
               <h2>Skills</h2>
