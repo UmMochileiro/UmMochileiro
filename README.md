@@ -15,16 +15,16 @@
 ## Languages
 
 <div align="center">
-  <div style="margin-bottom: 10px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" alt="American Flag" height="20" style="margin-right: 5px;"/>
+  <div style="margin-bottom: 15px; display: flex; align-items: left; justify-content: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" alt="American Flag" height="20" style="margin-right: 15px;"/>
     EN - Fluent
   </div>
-  <div style="margin-bottom: 10px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiragrande.jpg" alt="Brazilian Flag" height="20" style="margin-right: 5px;"/>
+  <div style="margin-bottom: 15px; display: flex; align-items: Left; justify-content: center;">
+    <img src="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiragrande.jpg" alt="Brazilian Flag" height="20" style="margin-right: 15px;"/>
     PT-BR - Native Speaker
   </div>
-  <div style="margin-bottom: 10px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" alt="Spain Flag" height="20" style="margin-right: 5px;"/>
+  <div style="margin-bottom: 15px; display: flex; align-items: left; justify-content: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" alt="Spain Flag" height="20" style="margin-right: 15px;"/>
     ES - Conversational
   </div>
 </div>
