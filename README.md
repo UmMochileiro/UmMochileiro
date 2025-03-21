@@ -1,7 +1,7 @@
   <div align="center">
 
   ## Software Developer
-[![Descrição da imagem](https://link-direto-da-imagem.jpg)](https://devcardoso.com)
+  [![LOGO](https://link-direto-da-imagem.png)](https://devcardoso.com)
 
 
   
