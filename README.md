@@ -1,7 +1,8 @@
   <div align="center">
 
   ## Software Developer
-  [![Descrição da imagem](https://ibb.co/RTmh3wWs)](https://devcardoso.com)
+[![Descrição da imagem](https://link-direto-da-imagem.jpg)](https://devcardoso.com)
+
 
   
   ==================
