@@ -1,7 +1,7 @@
   <div align="center">
 
   ## Software Developer
-  [![Descrição da imagem]([URL_da_imagem](https://files.fm/u/y2dcf2yxa9))](https://devcardoso.com)
+  [![Descrição da imagem](https://ibb.co/RTmh3wWs)](https://devcardoso.com)
 
   
   ==================
