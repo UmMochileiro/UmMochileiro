@@ -1,6 +1,7 @@
   <div align="center">
 
   ## Software Developer
+  <div style="margin-bottom: 15px; display: flex; align-items: left; justify-content: center;">
  [![Descrição da imagem](https://drive.google.com/uc?export=view&id=1u4FwlQ6C7fhgoimMCHsvdA5KbMG4WwNC)](https://devcardoso.com)
 
 
