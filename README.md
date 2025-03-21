@@ -1,8 +1,10 @@
   <div align="center">
 
   ## Software Developer
-  <div style="margin-bottom: 15px; display: flex; align-items: left; justify-content: center;">
- [![Descrição da imagem](https://drive.google.com/uc?export=view&id=1u4FwlQ6C7fhgoimMCHsvdA5KbMG4WwNC)](https://devcardoso.com)
+  <a href="https://devcardoso.com">
+  <img src="https://drive.google.com/uc?export=view&id=1u4FwlQ6C7fhgoimMCHsvdA5KbMG4WwNC" alt="Descrição da imagem" width="50" height="50">
+</a>
+
 
 
 
