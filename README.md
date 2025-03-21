@@ -1,7 +1,7 @@
   <div align="center">
 
   ## Software Developer
-  [![LOGO]([https://link-direto-da-imagem.png](https://i.ibb.co/WvwDkJ1M/logo-with-a-low-poly-black-and-white-chameleon-in-perspective.jpg))](https://devcardoso.com)
+ [![LOGO](https://i.ibb.co/WvwDkJ1M/logo-with-a-low-poly-black-and-white-chameleon-in-perspective.jpg)](https://devcardoso.com)
 
 
   
