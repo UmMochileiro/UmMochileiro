@@ -1,6 +1,6 @@
   <div align="center">
 
-  ## Software Developer
+  ## Full Stack Developer
   <a href="https://devcardoso.com">
   <img src="https://drive.google.com/uc?export=view&id=1u4FwlQ6C7fhgoimMCHsvdA5KbMG4WwNC" alt="Descrição da imagem" width="100" height="100">
 </a>
