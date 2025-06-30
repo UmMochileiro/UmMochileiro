@@ -25,7 +25,7 @@
     EN - Fluent
   </div>
   <div style="margin-bottom: 15px; display: flex; align-items: Left; justify-content: center;">
-    <img src="[https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiragrande.jpg](https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png)" alt="Brazilian Flag" height="20" style="margin-right: 15px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" alt](https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png)="Brazilian Flag" height="20" style="margin-right: 15px;"/>
     PT-BR - Native Speaker
   </div>
   <div style="margin-bottom: 15px; display: flex; align-items: left; justify-content: center;">
