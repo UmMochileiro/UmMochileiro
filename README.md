@@ -11,7 +11,7 @@
   
   ==================
 
-  I am a technology enthusiast eager to start my career in web development. I am learning Ruby on Rails, HTML, CSS, and JavaScript to create dynamic and responsive web applications. I am committed to continuous learning and delivering high-quality code, aiming to enhance user experience and functionality.
+  I'm a full stack developer with experience building dynamic and responsive web applications using technologies like Ruby on Rails, JavaScript, HTML/CSS, React, and Angular. Currently, I'm expanding my skill set into the field of Data Science, diving into Python, statistics, data analysis, and machine learning. I'm passionate about writing clean, efficient code and using both software engineering and data to solve real-world problems and enhance user experiences
 
   Skills
   ------
